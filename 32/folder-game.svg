@@ -115,44 +115,44 @@
        cx="403.80933"
        cy="531.50964"
        id="circle14"
-       style="fill:#800000;fill-opacity:1;stroke-width:0.04599859"
+       style="fill:#600000;fill-opacity:1;stroke-width:0.04599859"
        rx="0.64399016"
        ry="0.64397055" />
     <g
        transform="matrix(0.04599929,0,0,0.04599789,393.22163,526.40475)"
        id="g24"
-       style="fill:#800000;fill-opacity:1">
+       style="fill:#600000;fill-opacity:1">
       <g
          id="g22"
-         style="fill:#800000;fill-opacity:1">
+         style="fill:#600000;fill-opacity:1">
         <circle
            cx="230.173"
            cy="167.78101"
            r="14"
            id="circle20"
-           style="fill:#800000;fill-opacity:1" />
+           style="fill:#600000;fill-opacity:1" />
       </g>
     </g>
     <g
        transform="matrix(0.04599929,0,0,0.04599789,393.22163,526.40475)"
        id="g30"
-       style="fill:#800000;fill-opacity:1">
+       style="fill:#600000;fill-opacity:1">
       <g
          id="g28"
-         style="fill:#800000;fill-opacity:1">
+         style="fill:#600000;fill-opacity:1">
         <circle
            cx="201.77299"
            cy="139.381"
            r="14"
            id="circle26"
-           style="fill:#800000;fill-opacity:1" />
+           style="fill:#600000;fill-opacity:1" />
       </g>
     </g>
     <ellipse
        cx="405.11548"
        cy="532.81598"
        id="circle32"
-       style="fill:#800000;fill-opacity:1;stroke-width:0.0459986"
+       style="fill:#600000;fill-opacity:1;stroke-width:0.0459986"
        rx="0.64399028"
        ry="0.64397067" />
     <path
@@ -176,7 +176,7 @@
        inkscape:connection-start="#rect4294"
        inkscape:connection-end="#rect4294" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#800000;stroke-width:0.97021228px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#600000;stroke-width:0.97021228px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 400.59549,529.93898 c 0.22163,0 0.66733,-0.006 2.5834,-0.51453 1.63471,-0.46629 2.47082,0.43414 2.47082,0.43414 0,0 0.58701,0.48291 1.07443,1.60633 0.23671,0.54556 0.40545,1.07291 0.59943,1.90989 0.19138,0.80124 0.27199,1.55772 0.30038,2.06374 0.0242,0.42984 0.0335,0.76404 0.0171,1.09336 -0.0314,0.842 -0.26641,1.46241 -0.74635,1.69435 -0.92008,0.38381 -2.26887,-0.73314 -2.42867,-0.85743 -0.56717,-0.4451 -0.98045,-0.93016 -1.41741,-1.18245 -0.43963,-0.2274 -1.09908,-0.55332 -2.50891,-0.56091 -1.40985,-0.008 -2.2564,0.4855 -2.2564,0.4855 -0.59163,0.28123 -0.81783,0.69386 -1.66365,1.31535 -0.78186,0.57451 -1.64942,1.05322 -2.22862,0.80476 -0.61546,-0.25993 -0.72077,-0.97831 -0.76777,-1.20029 -0.0529,-0.3174 -0.10248,-0.94031 -0.0292,-1.72559 0.0387,-0.41937 0.10301,-1.11828 0.259,-1.79562 0.24626,-1.06937 0.5698,-2.03986 1.01702,-2.76549 0.24135,-0.41803 0.56239,-0.80978 0.88595,-1.0383 0.44908,-0.31716 0.87134,-0.38763 1.04689,-0.40185 0.16383,-0.0144 0.48091,-0.0994 1.65554,0.21131 1.17487,0.31078 1.59769,0.39973 2.13713,0.42373 z"
        id="path8561"
        inkscape:connector-curvature="0"
@@ -184,16 +184,16 @@
     <g
        transform="matrix(0.1225521,0,0,0.12254838,372.44862,515.73507)"
        id="g30-3"
-       style="fill:#800000;fill-opacity:1">
+       style="fill:#600000;fill-opacity:1">
       <g
          id="g28-6"
-         style="fill:#800000;fill-opacity:1">
+         style="fill:#600000;fill-opacity:1">
         <circle
            cx="201.77299"
            cy="139.381"
            r="14"
            id="circle26-7"
-           style="fill:#800000;fill-opacity:1" />
+           style="fill:#600000;fill-opacity:1" />
       </g>
     </g>
   </g>
